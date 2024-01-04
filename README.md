@@ -3,8 +3,8 @@ Utilizing the power of machine learning, we aim to demystify the complex factors
 
 Library used:-
 *pandas,
-*numpy
-*matplotlib
-*sklearn
-*seaborn
+*numpy,
+*matplotlib,
+*sklearn,
+*seaborn,
 *plotly
